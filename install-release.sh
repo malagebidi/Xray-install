@@ -4,13 +4,13 @@
 # https://wiki.linuxfoundation.org/lsb/fhs
 
 # The URL of the script project is:
-# https://github.com/XTLS/Xray-install
+# https://github.com/malagebidi/Xray-install
 
 # The URL of the script is:
-# https://raw.githubusercontent.com/XTLS/Xray-install/main/install-release.sh
+# https://raw.githubusercontent.com/malagebidi/Xray-install/main/install-release.sh
 
 # If the script executes incorrectly, go to:
-# https://github.com/XTLS/Xray-install/issues
+# https://github.com/malagebidi/Xray-install/issues
 
 # You can set this variable whatever you want in shell session right before running this script by issuing:
 # export DAT_PATH='/usr/local/share/xray'
