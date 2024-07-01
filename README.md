@@ -1,4 +1,4 @@
-# Xray-install
+# Xray-install (Geosite by Loyalsoldier)
 
 Bash script for installing Xray in operating systems such as CentOS / Debian / OpenSUSE that support systemd.
 
