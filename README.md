@@ -1,4 +1,4 @@
-# Xray-install (geosite use Loyalsoldier's)
+# Xray-install (geodata use Loyalsoldier's)
 
 Bash script for installing Xray in operating systems such as CentOS / Debian / OpenSUSE that support systemd.
 
